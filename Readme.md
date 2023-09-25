@@ -1,6 +1,6 @@
 #Python Programs
 
-|Column name 1|
+|Programs|
 ---|
 |[Python program to create a calculator class. Include methods for basic arithmetic operations.]()
 |[Python program to create a class representing a stack data structure. Include methods for pushing and popping elements.]()|
