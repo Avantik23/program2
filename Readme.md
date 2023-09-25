@@ -1,6 +1,6 @@
 #Python Programs
 
-|Column name 1|
+|Programs|
 ---|
 |[Python program to create a calculator class. Include methods for basic arithmetic operations.](https://github.com/Avantik23/program2/blob/main/Calculator.py)
 |[Python program to create a class representing a stack data structure. Include methods for pushing and popping elements.](https://github.com/Avantik23/program2/blob/main/stack.py)|
